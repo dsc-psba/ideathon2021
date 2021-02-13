@@ -62,7 +62,6 @@ input[type=submit].btn-custom,
 .de_tab.tab_style_4 .de_nav li.active, .de_tab.tab_style_4 .de_nav li.active span,
 .de_tab.tab_style_4 .de_nav.de_nav_dark li:hover,
 .countdown-s1.countdown-bg-color .countdown-section,
-.schedule-item:hover .sc-pic img,
 #b-menu span,
 #b-menu-close span,
 .widget_tags li a
@@ -75,6 +74,14 @@ input[type=submit].btn-custom,
 .box-number:hover i.bg-color.hover-color-2,
 .image-with-caption .cap{
 	background-color:var(--secondary-color);
+}
+
+.box-number:hover i.bg-color.hover-color-3 {
+	background-color:#199f58;
+}
+
+.schedule-item:hover .sc-pic img {
+	box-shadow: 0px 3px 15px rgba(0,0,0,0.2);
 }
 
 .gradient-to-right,
