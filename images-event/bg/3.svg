@@ -3,35 +3,28 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 512 288" style="enable-background:new 0 0 512 288;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#FFFFFF;}
-	.st1{clip-path:url(#SVGID_2_);}
-	.st2{fill:#4784F1;}
-	.st3{fill:#0F9D58;}
-	.st4{clip-path:url(#SVGID_4_);}
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:#4784F1;}
+	.st2{fill:#EA4335;}
+	.st3{fill:#119E59;}
+	.st4{fill:#FBBC04;}
 </style>
-<rect x="94" class="st0" width="326" height="288"/>
 <g>
-	<defs>
-		<circle id="SVGID_1_" cx="-0.5" cy="94.5" r="94.5"/>
-	</defs>
-	<clipPath id="SVGID_2_">
-		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
-	</clipPath>
-	<g class="st1">
-		<rect class="st2" width="94" height="288"/>
-		<rect class="st3" width="94" height="52"/>
+	<g>
+		<defs>
+			<circle id="SVGID_1_" cx="-46.5" cy="94.5" r="94.5"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st0">
+			<rect x="-46" class="st1" width="94" height="288"/>
+			<rect x="-46" class="st2" width="94" height="85"/>
+		</g>
 	</g>
 </g>
 <g>
-	<defs>
-		<polygon id="SVGID_3_" points="512,0 420,136 512,136 		"/>
-	</defs>
-	<clipPath id="SVGID_4_">
-		<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
-	</clipPath>
-	<g class="st4">
-		<rect x="418" class="st2" width="94" height="288"/>
-		<rect x="418" class="st3" width="94" height="52"/>
-	</g>
+	<rect x="431.3" class="st3" width="80.7" height="85"/>
+	<rect x="431.3" y="85" class="st4" width="80.7" height="203"/>
 </g>
 </svg>
