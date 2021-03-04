@@ -63,6 +63,18 @@ body {
 	background:#606060;
 }
 
+@media screen and (min-width: 512px) {
+ .logo_margin {
+ 	margin-left: 50px;
+ }
+}
+
+@media screen and (max-width: 463px) {
+ .logo_margin {
+ 	margin-top: 30px;
+ }
+}
+
 body.de_light,.de_light{
 	color:#777777;
 }
