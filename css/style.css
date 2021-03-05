@@ -4023,8 +4023,9 @@ border:solid 1px #ddd;
 	}
 	
 	.team img.team-pic {
-	width: 100%;
+	width: auto;
 	height: auto;
+	object-fit: contain;
 	}
 	
 	.pic-team img{
@@ -4112,12 +4113,14 @@ border:solid 1px #ddd;
 	
 	.de-team-list img{
 		width:100%;
+		height: 300px;
+		object-fit: cover;
 	}
 	
 	.de-team-list .team-desc{
 		width:100%;
 		height:100%;
-		padding:40px;
+		padding:20px;
 		padding-bottom:0;
 		position:absolute;
 		z-index:100;
@@ -4531,6 +4534,7 @@ background:#555;
 }
 .img-circle {
   border-radius: 50%;
+
 }
 .img-responsive {
   display: inline-block;
@@ -6475,7 +6479,8 @@ transition:.5s;
 .schedule-item .sc-pic img {
 	width: 90px;
 	padding:5px;
-	height: auto;
+	height: 90px;
+	object-fit: cover;
 }
 .schedule-item .sc-name {
 	font-weight: normal;
