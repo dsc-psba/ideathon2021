@@ -6497,6 +6497,25 @@ transition:.5s;
 	object-fit: cover;
 }
 	}
+
+	.margin-margin-top-top {
+		margin: 0 auto auto;
+}
+
+	@media screen and (min-width: 768px) {
+		.margin-margin-top {
+	margin: 0 auto auto;
+}
+
+	 
+	}
+
+	@media screen and (max-width: 767px) {
+	 .margin-margin-top {
+		margin: 30px auto auto;
+}
+
+	}
 .schedule-item .sc-name {
 	font-weight: normal;
 	font-size: 14px;
