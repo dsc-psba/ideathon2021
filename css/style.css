@@ -4133,6 +4133,14 @@ border:solid 1px #ddd;
 		background:#111;
 		color:#ccc;
 	}
+
+	.de-team-list .team-desc-desc{
+		margin-top: -20px;
+		font-size: 12px;
+		padding-bottom:0;
+		
+		color:#ccc;
+	}
 	
 	.de-team-list p{
 		clear:both;
